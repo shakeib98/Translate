@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewHeight"> 100dp </dimen>
+    <dimen name="textViewPaddingTop"> 35dp</dimen>
+    <dimen name="textViewPaddingLeft">12dp</dimen>
+    <dimen name="textSizeOfCategory">17sp</dimen>
+</resources>
